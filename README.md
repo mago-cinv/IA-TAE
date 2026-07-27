@@ -6,21 +6,21 @@ Repository used to organize course materials on **Embeddings** and **Transformer
 
 ```
 IA-TAE/
-├── modules/                      # Progressive theoretical modules
-│   ├── M0-introduction/          # ML fundamentals and neural networks
-│   │   ├── labs/                 # Practical exercises
-│   │   └── slides/               # Presentations
-│   ├── M1-embeddings/            # Vector representation of data
-│   │   ├── labs/                 # Embeddings implementations
-│   │   └── slides/               # Presentations
-│   └── M2-transformers/          # Transformer architecture
-│       ├── labs/                 # Fine-tuning and applications
-│       └── slides/               # Presentations
+├── modules/                      
+│   ├── M0-introduction/          
+│   │   ├── labs/                 
+│   │   └── slides/               
+│   ├── M1-embeddings/            
+│   │   ├── labs/                 
+│   │   └── slides/               
+│   └── M2-transformers/          
+│       ├── labs/                 
+│       └── slides/               
 │
-└── references/                   # Complementary material
-    ├── papers/                   # Academic articles
-    ├── articles/                 # Blogs and tutorials
-    └── tools/                    # Library documentation
+└── references/                   
+    ├── papers/                   
+    ├── articles/                 
+    └── tools/                    
 ```
 ---
 
